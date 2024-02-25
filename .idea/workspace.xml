@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7066b07c-bf1c-45ee-9aa9-8116b14190de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/firt-model/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firt-model/public/Ny-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firt-model/public/back1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firt-model/public/background1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firt-model/src/assest/Home1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firt-model/src/assest/service1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firt-model/src/assest/service2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firt-model/src/assest/service3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firt-model/src/components/Contact.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firt-model/src/components/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firt-model/src/components/Hero.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firt-model/src/components/Info.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firt-model/src/components/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firt-model/src/components/Services.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firt-model/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firt-model/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/firt-model/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firt-model/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/firt-model/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firt-model/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firt-model/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/firt-model/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firt-model/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firt-model/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/firt-model/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firt-model/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/firt-model/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firt-model/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firt-model/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firt-model/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/firt-model/apples.txt" beforeDir="false" afterPath="$PROJECT_DIR$/firt-model/apples.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/firt-model" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -64,21 +40,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/flavioduran/Desktop/PROJECTS/Ny-front&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/flavioduran/Desktop/PROJECTS/ny-friendly-web",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -107,6 +83,7 @@
       <workItem from="1706460958656" duration="5000" />
       <workItem from="1706461096254" duration="7000" />
       <workItem from="1706480713419" duration="388000" />
+      <workItem from="1708879754090" duration="50000" />
     </task>
     <servers />
   </component>
